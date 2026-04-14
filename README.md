@@ -55,10 +55,11 @@ This agent can:
 
 ## 📸 Screenshots
 ###AI Agent Running Output
-![Demo](screenshots/demo.png)
+![result1](screenshots/result1.png)
+![result2](screenshot/result2.png)
 
 ## Notebook Demo
 check the working demo here:
-notebooks/AI_Agent.ipynb
+notebooks/ai_agent(2).ipynb
 
 
