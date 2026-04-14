@@ -38,3 +38,7 @@ This agent can:
 ###AI Agent Running Output
 ![Demo](screenshots/demo.png)
 
+## Notebook Demo
+check the working demo here:
+notebooks/AI_Agent.ipynb
+
