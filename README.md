@@ -22,7 +22,7 @@ It analyzes resumes based on job roles and provides:
 
 The system mimics how AI models process input and generate insights.
 
-How It Works
+How It Works:
 1. User enters a task
 2. System detects intent using keyword-based NLP logic
 3. Appropriate response is generated
