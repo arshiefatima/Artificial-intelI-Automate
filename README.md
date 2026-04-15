@@ -74,7 +74,7 @@ This agent can:
 ![result1](screenshots/screenshots/screenshots/result1.png)
 ![result2](screenshotscreenshots/screenshots//result2.png)
 ![NLPresult1](screenshots/screenshots/screenshots/NLPresult1.png)
-![NLPresult1](screenshots/screenshots/screenshots/NLPresult2.png)
+![NLPresult2](screenshots/screenshots/screenshots/NLPresult2.png)
 
 ## Notebook Demo
 check the working demo here:
